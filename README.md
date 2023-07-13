@@ -1,0 +1,2 @@
+# rosita
+ejercicio de practica 
